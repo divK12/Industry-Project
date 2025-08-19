@@ -23,5 +23,4 @@ Lightweight, post-processing defenses to protect BERT embeddings from privacy le
 - Datasets: STS-B, QQP
 - Metrics: cosine similarity deviation, token retrieval, attack success reduction
 
-For in-depth methodology and findings, see the full report:
-[Project Report](Differential-Privacy-Adding-Noise-to-BERT-Embeddings.pdf)
+For in-depth methodology and findings, see the full report
